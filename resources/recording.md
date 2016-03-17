@@ -3,6 +3,7 @@
 ## Analog > Digital
 - [Transferring Audio Cassettes
 To Other Mediums](http://audio-restoration.com/cassette.php)
+- [7 Steps to Recording Great Sound Clips with Audacity](http://blog.reigndesign.com/blog/7-steps-to-recording-great-sound-clips-with-audacity/)
 
 ## Standards
 - [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov)
