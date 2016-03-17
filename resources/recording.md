@@ -5,6 +5,7 @@
 To Other Mediums](http://audio-restoration.com/cassette.php)
 - [7 Steps to Recording Great Sound Clips with Audacity](http://blog.reigndesign.com/blog/7-steps-to-recording-great-sound-clips-with-audacity/)
 - [Audacity: Recording from Cassette](http://wiki.audacityteam.org/wiki/Recording_from_Cassette)
+- [Tutorial - Copying tapes, LPs or MiniDiscs to CD](http://manual.audacityteam.org/o/man/tutorial_copying_tapes_lps_or_minidiscs_to_cd.html)
 
 ## Standards
 - [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov)
