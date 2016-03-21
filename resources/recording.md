@@ -10,7 +10,7 @@ To Other Mediums](http://audio-restoration.com/cassette.php)
 ## Cassette Tape Information
 - [Tapes and Tapes](http://tapesandtapes.com/)
 - [Project C-90](http://www.c-90.org/)
-- 
+
 ## General
 - [Transom](http://transom.org/)
 
