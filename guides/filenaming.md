@@ -2,7 +2,7 @@
 
 ![cassette tape graphic](../img/tape.png?raw=true "cassette tape graphic")
 
-1. `DATE`  Indicated by YYYYMMDD.
+1. `DATE`  Indicated by YYYYMMDD
 2. `TAPE #`  Assigned manually and recorded on index cards in physical collection (non-chronological)
 3. `TAPE SIDE`  Indicated by ‘A’ or ‘B’ (sides ‘1’ or ‘2’ will be mapped accordingly)
 4. `TAPE SIDE DURATION`  Indicated by ‘30’, ‘45’, ‘60’, etc.
