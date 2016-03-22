@@ -1,6 +1,6 @@
 # Tape-Recording Naming System
 
-![cassette tape graphic](img/tape.png?raw=true "cassette tape graphic")
+![cassette tape graphic](../img/tape.png?raw=true "cassette tape graphic")
 
 1. **DATE.**  Indicated by YYYYMMDD.
 2. **TAPE #.**  Assigned manually and recorded on index cards in physical collection (non-chronological).
