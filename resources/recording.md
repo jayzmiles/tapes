@@ -13,6 +13,9 @@ To Other Mediums](http://audio-restoration.com/cassette.php)
 
 ## General
 - [Transom](http://transom.org/)
+- 
+## Handling
+- [Library of Congress - Preservation](http://www.loc.gov/preservation/care/record.html)
 
 ## Standards
 - [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov)
