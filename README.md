@@ -31,4 +31,7 @@ Note to self:
 
 Record between -12db to -6db and normalize to -3db on export.
 
+### git Structure
+I'll be updating the git structure in the next few weeks - sorting audio, images, text, etc as well as setting up the `.gitignore` file.  Audio will not be backed up to git; Images might be but it will only be reference quality images.  All archival quality files (and files to be served to an eventual site) will either be stored privately on Google Drive or on a CDN.  Audio files will likely be made public at some point in the future.
+
 **All of this information needs to be stored in a more coherent way but will live in the README until I can sort it more deliberately.**
